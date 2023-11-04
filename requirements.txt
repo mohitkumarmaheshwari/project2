@@ -13,3 +13,4 @@ soupsieve
 urllib3
 werkzeug
 zipp
+gunicorn

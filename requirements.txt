@@ -3,7 +3,7 @@ blinker==1.4
 certifi==2023.7.22
 charset-normalizer==3.3.2
 click==8.1.7
-flask==2.0.1
+flask
 idna==3.4
 importlib-metadata==6.8.0
 itsdangerous==2.1.2
@@ -12,5 +12,5 @@ MarkupSafe==2.1.3
 requests==2.31.0
 soupsieve==2.5
 urllib3==2.0.7
-werkzeug==3.0.1
+werkzeug
 zipp==3.17.0
